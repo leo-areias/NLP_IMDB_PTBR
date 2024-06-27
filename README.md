@@ -1,4 +1,4 @@
-# Análise de Sentimentos em Reviews do IMDB com NLP
+# Análise do dataset IMDB com NLP
 
 Este trabalho trata da utilização de técnicas de Processamento de Linguagem Natural (NLP) em um dataset do IMDB que contém frases em português. 
 
