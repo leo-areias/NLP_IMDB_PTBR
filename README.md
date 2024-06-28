@@ -17,4 +17,4 @@ Além disso será desenvolvido nele os seguintes tópicos:
 
 * (Desafio – Opcional) Utilizando a saída do tópico anterior, treine um modelo utilizando o algoritmo RandomForestClassifier().
 
-
+### Dataset: https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr/data
